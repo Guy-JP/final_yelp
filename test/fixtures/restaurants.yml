@@ -2,12 +2,12 @@
 
 one:
   name: MyString
-  address: MyString
+  addres: MyString
   phone: MyString
-  website: MyString
+  website: 
 
 two:
   name: MyString
-  address: MyString
+  addres: MyString
   phone: MyString
-  website: MyString
+  website: 
